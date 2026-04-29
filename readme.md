@@ -32,14 +32,13 @@
 **工程化**　Vercel · Git · Monorepo · JWT 鉴权
 </details>
 
+---
 
-<details>
-<summary>GitHub 统计</summary>
+## GitHub 统计
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=wanhei1&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=wanhei1&theme=tokyo-night&hide_border=true)
-</details>
 
 ---
 
